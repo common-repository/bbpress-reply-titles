@@ -1,0 +1,7 @@
+input#bbp-reply-title {
+	width: 80%;
+}
+
+#bbpress-forums div.bbp-reply-content h4.bbp-reply-title {
+	margin-top: 0;
+}
